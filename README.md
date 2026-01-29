@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Javier Sánchez</h1>
-<h3 align="center">I am a DAM student and I consider myself an organized person, capable of solving problems and I have values ​​such as responsibility and teamwork.</h3>
+<h3 align="center">
+  Backend Developer with experience in Java and Spring Boot, focused on building REST APIs, writing unit tests and working in cloud-based environments such as OpenShift.
+
+I enjoy working in collaborative teams, improving code quality and contributing to stable and scalable backend solutions. I’m currently continuing to grow within the Java ecosystem and backend best practices.
+</h3>
 
 - 📫 How to reach me **javiersanchezprieto04@gmail.com**
 
